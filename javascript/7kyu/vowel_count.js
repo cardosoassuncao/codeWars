@@ -7,5 +7,5 @@ function getCount(str) {
             vowelsCount += 1
         }
     })
-    return vowelsCount;
+    return vowelsCount
 }
