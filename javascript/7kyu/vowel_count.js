@@ -1,5 +1,5 @@
 function getCount(str) {
-    var vowelsCount = 0;
+    let vowelsCount = 0;
     const arr = [...str.toLowerCase()]
     const vowels = ['a', 'e', 'i', 'o', 'u']
     arr.forEach(char => {
